@@ -1,6 +1,6 @@
 • Do ⭐ the repository if it helped you in anyway.
 # AutoGluon_Automl
-utoGluon enables easy-to-use and easy-to-extend AutoML with a focus on automated stack ensembling, deep learning, and real-world applications spanning text, image, and tabular data. Intended for both ML beginners and experts, AutoGluon enables you to:
+AutoGluon enables easy-to-use and easy-to-extend AutoML with a focus on automated stack ensembling, deep learning, and real-world applications spanning text, image, and tabular data. Intended for both ML beginners and experts, AutoGluon enables you to:
 
 Quickly prototype deep learning and classical ML solutions for your raw data with a few lines of code.
 
