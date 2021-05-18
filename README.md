@@ -10,11 +10,17 @@ Leverage automatic hyperparameter tuning, model selection/ensembling, architectu
 
 Easily improve/tune your bespoke models and data pipelines, or customize AutoGluon for your use-case.
 # Installing AutoVIML
+
 !pip install --upgrade mxnet
+
 !pip install autogluon
+
 !pip install --upgrade pip
+
 !pip install --upgrade setuptools
+
 !pip install --upgrade "mxnet<2.0.0"
+
 !pip install --pre autogluon
 # Importing AutoVIML
 import autogluon as ag
